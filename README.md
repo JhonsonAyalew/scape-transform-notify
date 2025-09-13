@@ -15,3 +15,4 @@ This project allows users to create jobs that run plugin-based scraping and tran
 
 ## Setup
 1. Copy environment variables:
+# scape-transform-notify
